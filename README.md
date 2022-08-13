@@ -1,4 +1,4 @@
-# Bil0u Tap
+# Personal homebrew tap
 
 ## How do I install these formulae?
 

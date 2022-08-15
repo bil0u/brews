@@ -1,6 +1,6 @@
 cask "defaults-edit" do
 
-  version "1.4.0_1"
+  version "0.4.0_1"
 
   sha256 "9ee9ebffb4f9d07450f901502d10a48e82b5f01f6a47d1ca462ad17e19c64373"
 
